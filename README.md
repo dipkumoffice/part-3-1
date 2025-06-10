@@ -3,3 +3,8 @@ export CPU_UTIL_THRESHOLD=0.01
 export CPU_LOOKBACK_MINUTES=5
 export DRY_RUN=true
 
+
+# Above values are for testing puposes only,  it can be changed and passed by env variable in production setup.
+
+```
+python3 test.py
