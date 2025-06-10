@@ -1,2 +1,5 @@
-# basic-app
-basic-app it will be used for the testing
+export MAX_RUNNING_MINUTES=2
+export CPU_UTIL_THRESHOLD=0.01
+export CPU_LOOKBACK_MINUTES=5
+export DRY_RUN=true
+

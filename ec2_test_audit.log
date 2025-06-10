@@ -1,0 +1,11 @@
+2025-06-10 13:44:23,422 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 13:52:21,588 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 13:56:04,142 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:01:31,438 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:02:09,652 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:03:10,873 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:03:14,782 | INFO | Dry-run passed for stopping i-01625c58f5232f347
+2025-06-10 14:07:19,196 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:07:23,292 | INFO | Dry-run passed for stopping i-01625c58f5232f347
+2025-06-10 14:08:33,361 | INFO | Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-10 14:08:37,307 | INFO | [DRY-RUN=False] Requested stop for i-01625c58f5232f347
